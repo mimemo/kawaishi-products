@@ -13,7 +13,7 @@
 
 ---
 
-## 画像切り出しアプリ (Microsoft Store App)
+## 画像切り出しアプリ
 
 - 画像を決まったサイズに切り出す
 - 紹介：https://github.com/mimemo/CropImg-docs
@@ -23,7 +23,7 @@
 
 ---
 
-## InDesign DevEnv (Microsoft Store App)
+## InDesign DevEnv
 
 - Adobe InDesign-Plugin development environment list.
 - Adobe InDesign プラグインの開発環境の情報。（リファレンス）
