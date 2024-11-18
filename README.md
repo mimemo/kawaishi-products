@@ -2,7 +2,7 @@
 
 ## Fit Frame to Page
 
-- Adobe InDesign UXP plugin
+- UXP plugin for InDesign
 - フレームをページにフィット
 - Adobe App Marketplaces
 
